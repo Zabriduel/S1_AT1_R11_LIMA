@@ -16,7 +16,7 @@ body {
 #menu {
     background-color: transparent;
     display: flex;
-    position: ;
+    position: fixed ;
     width: 100%;
     height: auto;
     align-items: center;
